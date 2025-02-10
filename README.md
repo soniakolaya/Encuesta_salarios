@@ -79,7 +79,7 @@ Finalmente se guarda en la carpeta *data* la base limpia y se exporta al LookerS
 [Ver reporte en Looker Studio](https://lookerstudio.google.com/s/nfEWA6ylDn4)
 
 
-<iframe width="600" height="400" src="https://lookerstudio.google.com/reporting/xxxxx" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://lookerstudio.google.com/s/nfEWA6ylDn4" frameborder="0" allowfullscreen></iframe>
 
 
 
