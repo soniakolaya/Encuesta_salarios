@@ -74,14 +74,13 @@ En el [Notebook Modelado de datos](https://github.com/soniakolaya/Encuesta_salar
 - Se crea la variable *salario_total_cop* como la suma de *salario_anual_cop* y *compensaciones_cop*.
 
 Finalmente se guarda en la carpeta *data* la base limpia y se exporta al LookerStudio para la creación del dashboard.
+
 ## Tablero interactivo
 
 [Ver reporte en Looker Studio](https://lookerstudio.google.com/s/nfEWA6ylDn4)
 
 
 <iframe width="600" height="400" src="https://lookerstudio.google.com/s/nfEWA6ylDn4" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://lookerstudio.google.com/s/nfEWA6ylDn4" sandbox></iframe>
 
 
 
