@@ -10,7 +10,6 @@ Este repositorio contiene el modelado de datos y visualización del conjunto de 
 
 ## Documentación modelado
 
-[Notebook](https://github.com/soniakolaya/Encuesta_salarios/blob/main/Modelado_datos.ipynb)
 
 1. Variables en la base de datos original
 
@@ -57,7 +56,7 @@ Este repositorio contiene el modelado de datos y visualización del conjunto de 
 3. Paso a paso para la actualización y modelado de datos
 
 
-En el [Notebook Modelado de datos](https://github.com/soniakolaya/Encuesta_salarios/blob/main/Modelado_datos.ipynb) se encuentra el código en Python para llevar a cabo proceso a detallar a continuación:
+En el [Notebook Modelado de datos](https://github.com/soniakolaya/Encuesta_salarios/blob/main/Modelado_datos.ipynb) se encuentra el código en Python pdel proceso que se va a detallar a continuación:
 
 **Cargue:** Se inicia cargando el conjunto de datos (raw data) de la encuesta. Estos datos son descargados en formato csv del [enlace](https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792 ). Los datos se almacenaron en la carpeta *data*.
 
@@ -70,7 +69,7 @@ En el [Notebook Modelado de datos](https://github.com/soniakolaya/Encuesta_salar
 - Se crea la función *estandarizar_otra_moneda(moneda)* para estandarizar los tipos de moneda almacenados en la categoría otros.
 - Se crea una función *convertir_a_cop(monto,moneda)* que permite convertir un monto de dinero a una moneda, en este caso a COP. 
 
-**Creación nuevas variables*
+**Creación nuevas variables**
 - Se crea las nuevas variables *salario_anual_cop* y *compensaciones_cop* mediante la conversión de los valores a pesos colombianos.
 - Se crea la variable *salario_total_cop* como la suma de *salario_anual_cop* y *compensaciones_cop*.
 
