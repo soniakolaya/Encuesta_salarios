@@ -81,6 +81,9 @@ Finalmente se guarda en la carpeta *data* la base limpia y se exporta al LookerS
 
 <iframe width="600" height="400" src="https://lookerstudio.google.com/s/nfEWA6ylDn4" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="https://lookerstudio.google.com/s/nfEWA6ylDn4" sandbox></iframe>
+
+
 
 
 ## Autores
